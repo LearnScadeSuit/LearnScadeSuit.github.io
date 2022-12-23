@@ -1,10 +1,13 @@
-site_name: Learn ScadeSuit
+site_name: Learn Scade
 nav:
     - 首页: 'index.md'
     - 目录:
       - 介绍: 'index.md'
       - 安装: 'index.md'
-      - Scade Suit: 'index.md'
-      - Scade Display: 'index.md'
+      - SCADE Suit: 'index.md'
+      - SCADE Display: 'index.md'
+      - SCADE Architect: 'index.md'
+      - SCADE A661: 'index.md'
+      - SCADE Test: 'index.md'
       - 实战: 'index.md'
     - 代码仓库: 'index.md'
