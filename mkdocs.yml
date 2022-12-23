@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Learn ScadeSuit
+nav:
+    - 首页: 'index.md'
+    - 目录:
+      - 介绍: 'index.md'
+      - 安装: 'index.md'
+      - Scade Suit: 'index.md'
+      - Scade Display: 'index.md'
+      - 实战: 'index.md'
+    - 代码仓库: 'index.md'
