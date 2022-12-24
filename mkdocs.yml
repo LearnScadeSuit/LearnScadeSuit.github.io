@@ -4,7 +4,10 @@ nav:
     - 目录:
       - 介绍: 'index.md'
       - 安装: 'index.md'
-      - SCADE Suit: 'index.md'
+      - 参考文档: 'index.md'
+      - SCADE Suit:
+          - 简介: 'index.md'
+          - Scade工程: 'index.md'
       - SCADE Display: 'index.md'
       - SCADE Architect: 'index.md'
       - SCADE A661: 'index.md'
