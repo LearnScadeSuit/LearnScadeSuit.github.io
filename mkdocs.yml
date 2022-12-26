@@ -18,9 +18,3 @@ nav:
       - SCADE Test: 'index.md'
       - 实战: 'index.md'
     - 代码仓库: '02 代码仓库.md'
-
-markdown_extensions:
-  - admonition
-  - smarty
-  - sane_lists
-  - mdx_math
