@@ -1,16 +1,26 @@
 site_name: Learn Scade
+site_description: 'ScadeSuit学习教程'
+site_url: https://learnscadesuit.github.io/
+repo_url: https://github.com/LearnScadeSuit/LearnScadeSuit.github.io
+
 nav:
-    - 首页: 'index.md'
+    - 首页: '01 首页.md'
     - 目录:
       - 介绍: 'index.md'
       - 安装: 'index.md'
       - 参考文档: 'index.md'
       - SCADE Suit:
-          - 简介: 'index.md'
-          - Scade工程: 'index.md'
+          - 简介: 'ScadeSuit/01 简介.md'
+          - Scade工程: 'ScadeSuit/02 Scade工程.md'
       - SCADE Display: 'index.md'
       - SCADE Architect: 'index.md'
       - SCADE A661: 'index.md'
       - SCADE Test: 'index.md'
       - 实战: 'index.md'
-    - 代码仓库: 'index.md'
+    - 代码仓库: '02 代码仓库.md'
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+  - mdx_math
